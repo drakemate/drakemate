@@ -1,5 +1,6 @@
 ### about me
 Bachelor in Medical Technology
+
 Master student in computer science  
 
 Projects in
