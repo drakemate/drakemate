@@ -1,7 +1,7 @@
 ### about me
-Bachelor in Medical Technology
+Bachelor in Medical Technology 🧠🤖
 
-Master student in computer science  
+Master student in computer science 👨‍💻
 
 Projects in
 - artificial intelligence 
@@ -9,6 +9,8 @@ Projects in
 - image processing
 - medical applications
 - neurology 
+
+
 
 <!--
 **drakemate/drakemate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
