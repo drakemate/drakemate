@@ -1,4 +1,13 @@
-### Hi there 👋
+### about me
+Bachelor in Medical Technology
+Master student in computer science  
+
+Projects in
+- artificial intelligence 
+- robotics
+- image processing
+- medical applications
+- neurology 
 
 <!--
 **drakemate/drakemate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
