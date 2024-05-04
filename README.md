@@ -3,7 +3,7 @@ Bachelor in Medical Technology 🧠🤖
 
 Master student in computer science 👨‍💻
 
-Projects in
+Projects in 🪴
 - artificial intelligence 
 - robotics
 - image processing
